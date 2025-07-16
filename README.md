@@ -45,4 +45,4 @@ See `/figures/` for visual outputs including:
 ## 🔗 Citation
 
 If you use this work, please cite it properly (see below)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15958141.svg)](https://doi.org/10.5281/zenodo.15958141)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15958804.svg)](https://doi.org/10.5281/zenodo.15958804)
